@@ -1,0 +1,903 @@
+1647971325724	geckodriver	INFO	Listening on 127.0.0.1:62364
+1647971326258	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62365" "-foreground" "-no-remote" "-profile" "/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofilejmQVTX"
+1647971327378	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofilejmQVTX/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:62365/devtools/browser/2877ed18-22ff-4ef3-806b-a197857a94e7
+1647971330228	Marionette	INFO	Listening on port 62372
+1647971330359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1647971553912	geckodriver	INFO	Listening on 127.0.0.1:62652
+1647971554444	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62653" "-foreground" "-no-remote" "-profile" "/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileEmWnlu"
+1647971555427	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileEmWnlu/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:62653/devtools/browser/cbba3b2b-1a32-4571-80ae-0dafef5d9361
+1647971558171	Marionette	INFO	Listening on port 62660
+1647971558296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: NotFoundError: Could not move source file(/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileEmWnlu/bookmarkbackups/bookmarks-2022-03-25_11_Ml3PKJOdVkslHIs-xMhtUQ==.jsonlz4) because it does not exist
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+1648320179017	Marionette	INFO	Stopped listening on port 62660
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648982111227	geckodriver	INFO	Listening on 127.0.0.1:59613
+1648982111758	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59614" "-foreground" "-no-remote" "-profile" "/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofile6uCbjH"
+1648982113164	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofile6uCbjH/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:59614/devtools/browser/150a7e55-5483-4438-9e69-2ffe32039b3c
+1648982116175	Marionette	INFO	Listening on port 59623
+1648982116297	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Ringke-Ergonomic-Transparent-Resistant-Protection/dp/B093Q3SHFB/ref=sr_1_3?crid=22RZ0SV1UTB5P&keywords=mi+11x+ringke&qid=1648981511&sprefix=mi+11x+ringk%2Caps%2C311&sr=8-3 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648982270873	geckodriver	INFO	Listening on 127.0.0.1:60470
+1648982271417	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60471" "-foreground" "-no-remote" "-profile" "/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofilewIoufg"
+1648982272261	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofilewIoufg/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:60471/devtools/browser/b80c0319-edcf-4cf6-acec-a9ca9ec449aa
+1648982275598	Marionette	INFO	Listening on port 60480
+1648982275676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648982276413	Marionette	INFO	Stopped listening on port 59623
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://www.amazon.in/Ringke-Ergonomic-Transparent-Resistant-Protection/dp/B093Q3SHFB/ref=sr_1_3?crid=22RZ0SV1UTB5P&keywords=mi+11x+ringke&qid=1648981511&sprefix=mi+11x+ringk%2Caps%2C311&sr=8-3 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648982322292	Marionette	INFO	Stopped listening on port 60480
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648982325219	geckodriver	INFO	Listening on 127.0.0.1:60899
+1648982325246	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60900" "-foreground" "-no-remote" "-profile" "/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofilevAM7MQ"
+1648982325740	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofilevAM7MQ/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:60900/devtools/browser/7e519a0e-4a39-42dd-a719-e6dccba54eb0
+1648982328125	Marionette	INFO	Listening on port 60903
+1648982328233	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Ringke-Ergonomic-Transparent-Resistant-Protection/dp/B093Q3SHFB/ref=sr_1_3?crid=22RZ0SV1UTB5P&keywords=mi+11x+ringke&qid=1648981511&sprefix=mi+11x+ringk%2Caps%2C311&sr=8-3 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648982406580	Marionette	INFO	Stopped listening on port 60903
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1648982517901	geckodriver	INFO	Listening on 127.0.0.1:61894
+1648982518427	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61895" "-foreground" "-no-remote" "-profile" "/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofilekiggev"
+1648982519350	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofilekiggev/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61895/devtools/browser/a497d912-9563-4189-9cdb-6b3327011893
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1648982521882	Marionette	INFO	Listening on port 61904
+1648982521994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648982528237	Marionette	INFO	Stopped listening on port 61904
+JavaScript warning: https://www.amazon.in/Ringke-Ergonomic-Transparent-Resistant-Protection/dp/B093Q3SHFB/ref=sr_1_3?crid=22RZ0SV1UTB5P&keywords=mi+11x+ringke&qid=1648981511&sprefix=mi+11x+ringk%2Caps%2C311&sr=8-3 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648982838397	geckodriver	INFO	Listening on 127.0.0.1:63324
+1648982838942	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63325" "-foreground" "-no-remote" "-profile" "/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileiqK9KH"
+1648982840140	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileiqK9KH/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:63325/devtools/browser/5efbfdcc-ce95-4344-91aa-855e31d904fa
+1648982842901	Marionette	INFO	Listening on port 63330
+1648982843022	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Ringke-Ergonomic-Transparent-Resistant-Protection/dp/B093Q3SHFB/ref=sr_1_3?crid=22RZ0SV1UTB5P&keywords=mi+11x+ringke&qid=1648981511&sprefix=mi+11x+ringk%2Caps%2C311&sr=8-3 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648983234074	Marionette	INFO	Stopped listening on port 63330
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:132:26
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648983647736	geckodriver	INFO	Listening on 127.0.0.1:50449
+1648983648263	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50450" "-foreground" "-no-remote" "-profile" "/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofile1tUkFa"
+1648983649482	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofile1tUkFa/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:50450/devtools/browser/bdb06325-35d6-40fc-b123-62bc37205a21
+1648983651896	Marionette	INFO	Listening on port 50455
+1648983652003	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648983657434	Marionette	INFO	Stopped listening on port 50455
+JavaScript warning: https://www.amazon.in/Ringke-Ergonomic-Transparent-Resistant-Protection/dp/B093Q3SHFB/ref=sr_1_3?crid=22RZ0SV1UTB5P&keywords=mi+11x+ringke&qid=1648981511&sprefix=mi+11x+ringk%2Caps%2C311&sr=8-3 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648983862327	geckodriver	INFO	Listening on 127.0.0.1:51424
+1648983862858	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51425" "-foreground" "-no-remote" "-profile" "/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofile50Zbtx"
+1648983864312	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofile50Zbtx/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:51425/devtools/browser/a9ce0cf4-fde9-45d4-b790-cc665c653fd5
+1648983867234	Marionette	INFO	Listening on port 51434
+1648983867323	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648983877648	Marionette	INFO	Stopped listening on port 51434
+JavaScript warning: https://www.amazon.in/Ringke-Ergonomic-Transparent-Resistant-Protection/dp/B093Q3SHFB/ref=sr_1_3?crid=22RZ0SV1UTB5P&keywords=mi+11x+ringke&qid=1648981511&sprefix=mi+11x+ringk%2Caps%2C311&sr=8-3 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648988124179	geckodriver	INFO	Listening on 127.0.0.1:52660
+1648988124719	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52661" "-foreground" "-no-remote" "-profile" "/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofilebrbUUu"
+1648988125886	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofilebrbUUu/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:52661/devtools/browser/e32d7d49-dd8e-4002-901f-408074d29851
+1648988128886	Marionette	INFO	Listening on port 52666
+1648988129031	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Ringke-Ergonomic-Transparent-Resistant-Protection/dp/B093Q3SHFB/ref=sr_1_3?crid=22RZ0SV1UTB5P&keywords=mi+11x+ringke&qid=1648981511&sprefix=mi+11x+ringk%2Caps%2C311&sr=8-3 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648988146956	Marionette	INFO	Stopped listening on port 52666
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648988251372	geckodriver	INFO	Listening on 127.0.0.1:53388
+1648988251393	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53389" "-foreground" "-no-remote" "-profile" "/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileJbLkXu"
+1648988252153	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileJbLkXu/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:53389/devtools/browser/6a2f967c-8a20-4567-b634-d61aefe7d9a5
+1648988254603	Marionette	INFO	Listening on port 53392
+1648988254704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648988260722	Marionette	INFO	Stopped listening on port 53392
+JavaScript warning: https://www.amazon.in/Ringke-Ergonomic-Transparent-Resistant-Protection/dp/B093Q3SHFB/ref=sr_1_3?crid=22RZ0SV1UTB5P&keywords=mi+11x+ringke&qid=1648981511&sprefix=mi+11x+ringk%2Caps%2C311&sr=8-3 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648988334805	geckodriver	INFO	Listening on 127.0.0.1:53839
+1648988334822	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53840" "-foreground" "-no-remote" "-profile" "/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileQn6kYe"
+1648988335618	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileQn6kYe/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:53840/devtools/browser/35d85656-fc61-4593-ad9d-85b377250c33
+1648988338346	Marionette	INFO	Listening on port 53843
+1648988338443	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648988342826	Marionette	INFO	Stopped listening on port 53843
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648988828523	geckodriver	INFO	Listening on 127.0.0.1:55929
+1648988829052	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55930" "-foreground" "-no-remote" "-profile" "/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofile4CEB2s"
+1648988830027	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofile4CEB2s/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:55930/devtools/browser/5579b89a-3cdf-48c0-8706-54d779bcecb2
+1648988832822	Marionette	INFO	Listening on port 55935
+1648988832911	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648988837599	Marionette	INFO	Stopped listening on port 55935
+JavaScript warning: https://www.amazon.in/Ringke-Ergonomic-Transparent-Resistant-Protection/dp/B093Q3SHFB/ref=sr_1_3?crid=22RZ0SV1UTB5P&keywords=mi+11x+ringke&qid=1648981511&sprefix=mi+11x+ringk%2Caps%2C311&sr=8-3 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648988858570	geckodriver	INFO	Listening on 127.0.0.1:56169
+1648988858593	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56170" "-foreground" "-no-remote" "-profile" "/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileOZXIju"
+1648988859229	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileOZXIju/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:56170/devtools/browser/d46173eb-08ce-4efc-a3ee-aeb2ec2b4d56
+1648988861515	Marionette	INFO	Listening on port 56173
+1648988861641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648988866050	Marionette	INFO	Stopped listening on port 56173
+JavaScript warning: https://www.amazon.in/Ringke-Ergonomic-Transparent-Resistant-Protection/dp/B093Q3SHFB/ref=sr_1_3?crid=22RZ0SV1UTB5P&keywords=mi+11x+ringke&qid=1648981511&sprefix=mi+11x+ringk%2Caps%2C311&sr=8-3 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648988887061	geckodriver	INFO	Listening on 127.0.0.1:56398
+1648988887080	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56399" "-foreground" "-no-remote" "-profile" "/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileTLnv8c"
+1648988887975	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileTLnv8c/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:56399/devtools/browser/5f83d9e6-1a6c-41b6-b688-92e38e306a9e
+1648988890328	Marionette	INFO	Listening on port 56402
+1648988890357	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648988895375	Marionette	INFO	Stopped listening on port 56402
+JavaScript warning: https://www.amazon.in/Ringke-Ergonomic-Transparent-Resistant-Protection/dp/B093Q3SHFB/ref=sr_1_3?crid=22RZ0SV1UTB5P&keywords=mi+11x+ringke&qid=1648981511&sprefix=mi+11x+ringk%2Caps%2C311&sr=8-3 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648989184214	geckodriver	INFO	Listening on 127.0.0.1:57721
+1648989184231	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57722" "-foreground" "-no-remote" "-profile" "/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileZvvkxJ"
+1648989185072	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileZvvkxJ/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:57722/devtools/browser/22b68a85-cadc-4540-898b-1921615ad28b
+1648989187340	Marionette	INFO	Listening on port 57725
+1648989187490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1648989195593	Marionette	INFO	Stopped listening on port 57725
+JavaScript warning: https://www.amazon.in/Ringke-Ergonomic-Transparent-Resistant-Protection/dp/B093Q3SHFB/ref=sr_1_3?crid=22RZ0SV1UTB5P&keywords=mi+11x+ringke&qid=1648981511&sprefix=mi+11x+ringk%2Caps%2C311&sr=8-3 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648989233234	geckodriver	INFO	Listening on 127.0.0.1:57995
+1648989233250	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57996" "-foreground" "-no-remote" "-profile" "/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofilet0Uxq4"
+1648989233962	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofilet0Uxq4/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:57996/devtools/browser/88f03ea8-e6f9-4550-b27b-cdfae48bd9e0
+1648989236170	Marionette	INFO	Listening on port 57999
+1648989236240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648989240473	Marionette	INFO	Stopped listening on port 57999
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648989266480	geckodriver	INFO	Listening on 127.0.0.1:58233
+1648989266498	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58234" "-foreground" "-no-remote" "-profile" "/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofilerQyWDY"
+1648989267070	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofilerQyWDY/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:58234/devtools/browser/0c24b747-0e5d-41f5-915f-f333ef6bd7a6
+1648989269217	Marionette	INFO	Listening on port 58237
+1648989269282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648989274288	Marionette	INFO	Stopped listening on port 58237
+JavaScript warning: https://www.amazon.in/Ringke-Ergonomic-Transparent-Resistant-Protection/dp/B093Q3SHFB/ref=sr_1_3?crid=22RZ0SV1UTB5P&keywords=mi+11x+ringke&qid=1648981511&sprefix=mi+11x+ringk%2Caps%2C311&sr=8-3 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648989447046	geckodriver	INFO	Listening on 127.0.0.1:59061
+1648989447062	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59062" "-foreground" "-no-remote" "-profile" "/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofilehp1mjG"
+1648989447723	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofilehp1mjG/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:59062/devtools/browser/16077bf2-68b4-4f25-9024-35f6a90e0ec0
+1648989449841	Marionette	INFO	Listening on port 59065
+1648989449960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648989578627	Marionette	INFO	Stopped listening on port 59065
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648989581329	geckodriver	INFO	Listening on 127.0.0.1:59669
+1648989581861	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59670" "-foreground" "-no-remote" "-profile" "/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofilePjNdtn"
+1648989582542	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofilePjNdtn/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:59670/devtools/browser/06350e45-7f06-4c0a-b20e-3d5aaf8dcbf7
+1648989584669	Marionette	INFO	Listening on port 59675
+1648989584762	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648989592360	Marionette	INFO	Stopped listening on port 59675
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648989607431	geckodriver	INFO	Listening on 127.0.0.1:59843
+1648989607448	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59844" "-foreground" "-no-remote" "-profile" "/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileIjVvq0"
+1648989607941	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileIjVvq0/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:59844/devtools/browser/22debff2-6e7a-4105-822c-adf118ed936c
+1648989610092	Marionette	INFO	Listening on port 59847
+1648989610211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648989621861	Marionette	INFO	Stopped listening on port 59847
+JavaScript warning: https://www.amazon.in/11X-Cosmic-Black-128GB-Storage/dp/B085J1QWFV/ref=sr_1_1?crid=271VEMIZWQZL0&keywords=mi%2B11x&qid=1648981330&sprefix=mi%2B11%2Caps%2C324&sr=8-1&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: null
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: , line 0: NotReadableError: Could not write chunk (size = 122) to file /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileIjVvq0/sessionCheckpoints.json.tmp. The file may be corrupt.
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+console.error: "Could not write session state file " (new Error("Could not move temporary file(/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileIjVvq0/sessionstore.jsonlz4.tmp) to destination(/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileIjVvq0/sessionstore.jsonlz4)", (void 0), 106)) "DOMException@resource://gre/modules/PromiseWorker.jsm:106:18\npostMessage@resource://gre/modules/PromiseWorker.jsm:342:55\nobserve@resource://gre/modules/AsyncShutdown.jsm:575:16\n"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: OperationError: Could not move temporary file(/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileIjVvq0/sessionCheckpoints.json.tmp) to destination(/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileIjVvq0/sessionCheckpoints.json)
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: OperationError: Could not move temporary file(/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileIjVvq0/sessionCheckpoints.json.tmp) to destination(/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileIjVvq0/sessionCheckpoints.json)
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: OperationError: Could not move temporary file(/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileIjVvq0/sessionCheckpoints.json.tmp) to destination(/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileIjVvq0/sessionCheckpoints.json)
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  CrashMonitor: Writing notifications to file after receiving profile-before-change and awaiting all checkpoints written
+          Phase: IOUtils: waiting for profileBeforeChange IO to complete
+          State: {"profile-after-change":true,"final-ui-startup":true,"sessionstore-windows-restored":true,"quit-application-granted":true,"quit-application":true,"profile-change-net-teardown":true,"profile-change-teardown":true,"profile-before-change":true,"sessionstore-final-state-write-complete":true}
+WARNING: NotReadableError: Could not write chunk (size = 241) to file /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileIjVvq0/sessionCheckpoints.json.tmp. The file may be corrupt.
+WARNING: observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotReadableError: Could not write chunk (size = 241) to file /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileIjVvq0/sessionCheckpoints.json.tmp. The file may be corrupt.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648989657252	geckodriver	INFO	Listening on 127.0.0.1:60149
+1648989657273	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60150" "-foreground" "-no-remote" "-profile" "/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileJZvEUh"
+1648989657858	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileJZvEUh/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:60150/devtools/browser/3a0b18a8-f6a8-4711-a337-75d9c424c275
+1648989660265	Marionette	INFO	Listening on port 60153
+1648989660314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: "Could not write session state file " (new Error("Could not move temporary file(/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileJZvEUh/sessionstore-backups/recovery.jsonlz4.tmp) to destination(/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileJZvEUh/sessionstore-backups/recovery.jsonlz4)", (void 0), 106)) "DOMException@resource://gre/modules/PromiseWorker.jsm:106:18\npostMessage@resource://gre/modules/PromiseWorker.jsm:342:55\n"
+1648989665556	Marionette	INFO	Stopped listening on port 60153
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: OperationError: Could not move temporary file(/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileJZvEUh/sessionCheckpoints.json.tmp) to destination(/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileJZvEUh/sessionCheckpoints.json)
+JavaScript error: , line 0: NotReadableError: Could not write chunk (size = 146) to file /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileJZvEUh/sessionCheckpoints.json.tmp. The file may be corrupt.
+console.error: "Could not write session state file " (new Error("Could not move temporary file(/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileJZvEUh/sessionstore.jsonlz4.tmp) to destination(/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileJZvEUh/sessionstore.jsonlz4)", (void 0), 106)) "DOMException@resource://gre/modules/PromiseWorker.jsm:106:18\npostMessage@resource://gre/modules/PromiseWorker.jsm:342:55\nobserve@resource://gre/modules/AsyncShutdown.jsm:575:16\n"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: OperationError: Could not move temporary file(/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileJZvEUh/sessionCheckpoints.json.tmp) to destination(/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileJZvEUh/sessionCheckpoints.json)
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 963: Error: Error(s) encountered during statement execution: database or disk is full
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: OperationError: Could not move temporary file(/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileJZvEUh/sessionCheckpoints.json.tmp) to destination(/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileJZvEUh/sessionCheckpoints.json)
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  CrashMonitor: Writing notifications to file after receiving profile-before-change and awaiting all checkpoints written
+          Phase: IOUtils: waiting for profileBeforeChange IO to complete
+          State: {"profile-after-change":true,"final-ui-startup":true,"sessionstore-windows-restored":true,"quit-application-granted":true,"quit-application":true,"profile-change-net-teardown":true,"profile-change-teardown":true,"profile-before-change":true,"sessionstore-final-state-write-complete":true}
+WARNING: OperationError: Could not move temporary file(/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileJZvEUh/sessionCheckpoints.json.tmp) to destination(/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileJZvEUh/sessionCheckpoints.json)
+WARNING: observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: OperationError: Could not move temporary file(/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileJZvEUh/sessionCheckpoints.json.tmp) to destination(/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileJZvEUh/sessionCheckpoints.json)
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotReadableError: Could not write chunk (size = 288) to file /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileJZvEUh/sessionCheckpoints.json.tmp. The file may be corrupt.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648989690242	geckodriver	INFO	Listening on 127.0.0.1:60375
+1648989690260	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60376" "-foreground" "-no-remote" "-profile" "/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileFDr5N4"
+1648989690862	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileFDr5N4/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:60376/devtools/browser/9c80e089-88f9-4b3b-a310-7a21e6287beb
+1648989693036	Marionette	INFO	Listening on port 60379
+1648989693116	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: "Could not write session state file " (new Error("Could not write chunk (size = 1188) to file /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileFDr5N4/sessionstore-backups/recovery.jsonlz4.tmp. The file may be corrupt.", (void 0), 106)) "DOMException@resource://gre/modules/PromiseWorker.jsm:106:18\npostMessage@resource://gre/modules/PromiseWorker.jsm:342:55\n"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1185: NS_ERROR_FILE_ACCESS_DENIED: Could not open connection to /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileFDr5N4/protections.sqlite: 2152857621
+1648989703901	Marionette	INFO	Stopped listening on port 60379
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotReadableError: Could not open the file at /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileFDr5N4/sessionCheckpoints.json.tmp for writing
+console.error: "Could not write session state file " (new Error("Could not open the file at /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileFDr5N4/sessionstore.jsonlz4.tmp for writing", (void 0), 106)) "DOMException@resource://gre/modules/PromiseWorker.jsm:106:18\npostMessage@resource://gre/modules/PromiseWorker.jsm:342:55\n"
+JavaScript warning: https://www.amazon.in/11X-Cosmic-Black-128GB-Storage/dp/B085J1QWFV/ref=sr_1_1?crid=271VEMIZWQZL0&keywords=mi%2B11x&qid=1648981330&sprefix=mi%2B11%2Caps%2C324&sr=8-1&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NotReadableError: Could not open the file at /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileFDr5N4/sessionCheckpoints.json.tmp for writing
+JavaScript error: , line 0: NotReadableError: Could not open the file at /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileFDr5N4/sessionCheckpoints.json.tmp for writing
+JavaScript error: , line 0: NotReadableError: Could not open the file at /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileFDr5N4/sessionCheckpoints.json.tmp for writing
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  CrashMonitor: Writing notifications to file after receiving profile-before-change and awaiting all checkpoints written
+          Phase: IOUtils: waiting for profileBeforeChange IO to complete
+          State: {"profile-after-change":true,"final-ui-startup":true,"sessionstore-windows-restored":true,"quit-application-granted":true,"quit-application":true,"sessionstore-final-state-write-complete":true,"profile-change-net-teardown":true,"profile-change-teardown":true,"profile-before-change":true}
+WARNING: NotReadableError: Could not open the file at /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileFDr5N4/sessionCheckpoints.json.tmp for writing
+WARNING: observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotReadableError: Could not open the file at /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileFDr5N4/sessionCheckpoints.json.tmp for writing
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotReadableError: Could not open the file at /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofileFDr5N4/sessionCheckpoints.json.tmp for writing
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: Object
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1648990950446	geckodriver	INFO	Listening on 127.0.0.1:49826
+1648990951012	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49827" "-foreground" "-no-remote" "-profile" "/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofilelKPltw"
+1648990952242	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofilelKPltw/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:49827/devtools/browser/63040031-62ae-4ed7-99f3-7ff0182582e8
+1648990955152	Marionette	INFO	Listening on port 49832
+1648990955290	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648990962114	Marionette	INFO	Stopped listening on port 49832
+JavaScript warning: https://www.amazon.in/Ringke-Ergonomic-Transparent-Resistant-Protection/dp/B093Q3SHFB/ref=sr_1_3?crid=22RZ0SV1UTB5P&keywords=mi+11x+ringke&qid=1648981511&sprefix=mi+11x+ringk%2Caps%2C311&sr=8-3 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649002138141	geckodriver	INFO	Listening on 127.0.0.1:54399
+1649002138715	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54400" "-foreground" "-no-remote" "-profile" "/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofilevmTioa"
+1649002139725	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofilevmTioa/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:54400/devtools/browser/3b9c16c7-dbdb-4889-8303-5da27d552860
+1649002142293	Marionette	INFO	Listening on port 54405
+1649002142355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649002151919	Marionette	INFO	Stopped listening on port 54405
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649002197430	geckodriver	INFO	Listening on 127.0.0.1:54755
+1649002197447	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54756" "-foreground" "-no-remote" "-profile" "/var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofilehrQtf0"
+1649002198108	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sg/f1rwqbnj4_q6phb3mwv40qgh0000gn/T/rust_mozprofilehrQtf0/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:54756/devtools/browser/78e6fa55-5529-4ed3-bd3d-b858f36af327
+1649002200218	Marionette	INFO	Listening on port 54759
+1649002200264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649002205886	Marionette	INFO	Stopped listening on port 54759
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
